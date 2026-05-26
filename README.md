@@ -51,7 +51,7 @@ context to governed action with portable process artifacts and source code.
 | --- | --- | --- |
 | NutrientCompare | [nutrientcompare.com](https://nutrientcompare.com) | Independent supplement-evaluation platform — transparent 5-factor scoring (purity, dosage, bioavailability, price, transparency). Live, Taiwan. |
 | Permis-Check | [permis-check.fr](https://permis-check.fr) | Building-permit checking platform. |
-| GISPulse | [imagodata.com](https://imagodata.com) | Geospatial real-estate market data — DVF comparables and parcel context. Built with ImagoData. |
+| GISPulse | [imagodata/gispulse](https://github.com/imagodata/gispulse) | Open-source modular geospatial engine (DuckDB/PostGIS) — powers real-estate market analysis (DVF × urban-planning constraints). Built with ImagoData. |
 | AgentsCards | [agentscards.com](https://agentscards.com) | Agent-discoverable business cards, so AI assistants can find and recommend a service. Waitlist. |
 | Casys PML | [Casys-AI/casys-pml](https://github.com/Casys-AI/casys-pml) | Prototype MCP gateway. Paused experiment. |
 
