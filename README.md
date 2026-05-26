@@ -34,7 +34,7 @@ context to governed action with portable process artifacts and source code.
 | eInvoice Platform | [einvoice-platform.fr](https://einvoice-platform.fr) | Live · French mandate 2026. Process-facing invoice lifecycle tools + provider adapters. |
 | ERP Platform | [erp-platform.fr](https://erp-platform.fr) | Live beta. MCP-driven ERP workflows. ERPNext is the most mature adapter. Dolibarr mapping underway. |
 
-## Repositories
+## Casys-AI repositories
 
 | Repository | Scope | Signals |
 | --- | --- | --- |
@@ -44,6 +44,16 @@ context to governed action with portable process artifacts and source code.
 | [Casys-AI/mcp-erp](https://github.com/Casys-AI/mcp-erp) | ERP-agnostic MCP adapter layer: ERPNext, Dolibarr, more. | ![stars](https://img.shields.io/github/stars/Casys-AI/mcp-erp?style=flat-square) |
 | Casys-AI/mcp-geomatic | Private. MCP server for geospatial operations: QGIS Server + PostGIS + GEOS (WASM), natural-language geo data ops. | private |
 | [Casys-AI/DenoClaw](https://github.com/Casys-AI/DenoClaw) | Deno-native AI agent framework: Subhosting + Sandbox + A2A, zero Node.js deps. | ![stars](https://img.shields.io/github/stars/Casys-AI/DenoClaw?style=flat-square) |
+
+## Other projects
+
+| Project | Link | Scope |
+| --- | --- | --- |
+| NutrientCompare | [nutrientcompare.com](https://nutrientcompare.com) | Independent supplement-evaluation platform — transparent 5-factor scoring (purity, dosage, bioavailability, price, transparency). Live, Taiwan. |
+| Permis-Check | [permis-check.fr](https://permis-check.fr) | Building-permit checking platform. |
+| GISPulse | [imagodata.com](https://imagodata.com) | Geospatial real-estate market data — DVF comparables and parcel context. Built with ImagoData. |
+| AgentsCards | [agentscards.com](https://agentscards.com) | Agent-discoverable business cards, so AI assistants can find and recommend a service. Waitlist. |
+| Casys PML | [Casys-AI/casys-pml](https://github.com/Casys-AI/casys-pml) | Prototype MCP gateway. Paused experiment. |
 
 ## GitHub
 
