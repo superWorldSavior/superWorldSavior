@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Systems that let agents do real work</title>
+  <desc id="desc">A dark violet and cyan systems diagram connecting intent, models, execution, and evidence.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020" />
+      <stop offset="0.55" stop-color="#151126" />
+      <stop offset="1" stop-color="#07151b" />
+    </linearGradient>
+    <linearGradient id="trace" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6" />
+      <stop offset="0.52" stop-color="#c084fc" />
+      <stop offset="1" stop-color="#22d3ee" />
+    </linearGradient>
+    <radialGradient id="violet-glow" cx="0.08" cy="0.12" r="0.78">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.28" />
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="cyan-glow" cx="0.9" cy="0.8" r="0.55">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.2" />
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1" />
+    </pattern>
+    <filter id="soft-glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#background)" />
+  <rect width="1200" height="300" rx="24" fill="url(#violet-glow)" />
+  <rect width="1200" height="300" rx="24" fill="url(#cyan-glow)" />
+  <rect width="1200" height="300" rx="24" fill="url(#grid)" />
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="70" y="78" fill="#c4b5fd" font-size="14" font-weight="700" letter-spacing="3.6">ERWAN LEE PESLE</text>
+    <text x="70" y="139" fill="#f8fafc" font-size="38" font-weight="650" letter-spacing="-0.8">Systems that let agents</text>
+    <text x="70" y="184" fill="#f8fafc" font-size="38" font-weight="650" letter-spacing="-0.8">do real work.</text>
+    <text x="70" y="235" fill="#94a3b8" font-size="13" font-weight="600" letter-spacing="2.4">TAIWAN · PROTOCOLS · ENGINEERING · EVIDENCE</text>
+  </g>
+
+  <g transform="translate(690 42)">
+    <path d="M28 111 C92 27 154 26 215 92 S342 187 445 84" fill="none" stroke="#ffffff" stroke-opacity="0.1" stroke-width="18" stroke-linecap="round" />
+    <path d="M28 111 C92 27 154 26 215 92 S342 187 445 84" fill="none" stroke="url(#trace)" stroke-width="3" stroke-linecap="round" />
+    <path d="M28 111 C92 196 152 197 215 132 S342 35 445 139" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1.5" stroke-dasharray="5 8" />
+
+    <g filter="url(#soft-glow)">
+      <circle cx="28" cy="111" r="7" fill="#8b5cf6" />
+      <circle cx="148" cy="55" r="7" fill="#a78bfa" />
+      <circle cx="260" cy="132" r="7" fill="#c084fc" />
+      <circle cx="363" cy="151" r="7" fill="#67e8f9" />
+      <circle cx="445" cy="84" r="8" fill="#22d3ee" />
+    </g>
+
+    <g fill="#cbd5e1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="600" letter-spacing="1.2">
+      <text x="10" y="145">INTENT</text>
+      <text x="124" y="31">MODEL</text>
+      <text x="240" y="166">RUN</text>
+      <text x="337" y="185">TRACE</text>
+      <text x="414" y="58">EVIDENCE</text>
+    </g>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="23.25" fill="none" stroke="#ffffff" stroke-opacity="0.09" stroke-width="1.5" />
+</svg>

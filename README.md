@@ -1,65 +1,58 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/system-trace-mobile.svg" />
+    <img src="assets/system-trace.svg" alt="Systems that let agents do real work: intent, model, run, trace, evidence" width="100%" />
+  </picture>
+</p>
 
-# Erwan Lee Pesle
+# Hi, I'm Erwan.
 
-**Founder, Casys — independent R&D studio**
+**I think in systems, build in code, and teach from the work.**
 
-I build MCP servers that connect AI agents to engineering and business systems:
-SysML models, CAD, FEA, simulation, ERP, e-invoicing. TypeScript and Deno, MIT.
-The code lives under <a href="https://github.com/Casys-AI">Casys-AI</a>.
-Based in Taiwan.
+I'm the founder and software architect behind [Casys](https://casys.ai), based
+in Taiwan. I work where agent protocols, engineering models, business systems,
+data, and decision-making meet.
 
-<a href="https://github.com/Casys-AI">Casys-AI</a> ·
-<a href="https://casys.ai">casys.ai</a> ·
-<a href="https://www.linkedin.com/in/erwan-lee-pesle-32085463">LinkedIn</a>
+I like turning complicated real-world work into software that is executable,
+inspectable, and useful to the people who own it.
 
-<br />
-<br />
+[Casys](https://casys.ai) · [Open source](https://github.com/Casys-AI) ·
+[Field notes](https://casys.ai/blog) · [Teaching](https://casys.ai/teaching) ·
+[LinkedIn](https://www.linkedin.com/in/erwan-lee-pesle-32085463)
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/superWorldSavior?style=flat-square&amp;label=followers" />
-<img alt="Model Context Protocol" src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6E56CF?style=flat-square" />
-<img alt="Deno" src="https://img.shields.io/badge/Deno-000000?logo=deno&amp;logoColor=white&amp;style=flat-square" />
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&amp;logoColor=white&amp;style=flat-square" />
+## What I build
 
-</div>
+- **Agent infrastructure** — MCP systems and operator surfaces that connect
+  agents to the tools, permissions, knowledge, and traces behind real workflows.
+- **Engineering software** — from system architecture to CAD and simulation,
+  with evidence that carries into the wider workflow.
+- **Data, graphs, and optimisation** — knowledge structures, exact models,
+  heuristics, and interfaces that make difficult decisions legible.
 
----
+## My favourite loop
 
-## Side projects
+`understand → model → build → run → document → teach`
 
-| Project | Link | Scope |
-| --- | --- | --- |
-| NutrientCompare | [nutrientcompare.com](https://nutrientcompare.com) | Supplement evaluation — transparent 5-factor scoring: purity, dosage, bioavailability, price, transparency. Live, Taiwan. |
-| Permis-Check | [permis-check.fr](https://permis-check.fr) | Building-permit feasibility for French parcels — plot mapped, 0–100 score, prioritized next steps and GIS export in ~35s, no account. |
-| GISPulse | [imagodata/gispulse](https://github.com/imagodata/gispulse) | Modular geospatial engine (DuckDB/PostGIS) with business rules and triggers. Real-estate market analysis: DVF × urban-planning constraints. Built with ImagoData, AGPL-3.0. |
+I publish field notes, diagrams, and working examples alongside the code.
+Documentation is part of the product, and teaching is how I test whether the
+ideas remain useful outside the repository where they started.
 
-## GitHub
+## Selected work
 
-<div align="center">
+Most of my open work lives at **[Casys-AI](https://github.com/Casys-AI)**. These
+projects capture the range:
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=superWorldSavior&amp;theme=github-dark-blue&amp;hide_border=true"
-  />
-  <img
-    alt="superWorldSavior GitHub streak"
-    src="https://streak-stats.demolab.com?user=superWorldSavior&amp;theme=default&amp;hide_border=true"
-  />
-</picture>
+- **[mcp-server](https://github.com/Casys-AI/mcp-server)** — the TypeScript
+  foundation behind Casys MCP servers and apps.
+- **[mcp-erpnext](https://github.com/Casys-AI/mcp-erpnext)** — agent-operated
+  ERPNext workflows with interactive views.
+- **[mcp-chrono](https://github.com/Casys-AI/mcp-chrono)** — prescribed
+  rigid-body kinematics with Project Chrono.
 
-<br />
-<br />
+## Side quest
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=superWorldSavior&amp;theme=github-dark&amp;hide_border=true&amp;area=true"
-  />
-  <img
-    alt="superWorldSavior contribution graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=superWorldSavior&amp;theme=github-light&amp;hide_border=true&amp;area=true"
-  />
-</picture>
+**[NutrientCompare](https://nutrientcompare.com)** is a transparent supplement
+comparison project built for Taiwan.
 
-</div>
+If you're building a system where an agent needs to do more than talk,
+[say hello](mailto:hello@casys.ai).
