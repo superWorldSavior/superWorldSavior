@@ -42,6 +42,9 @@ ideas remain useful outside the repository where they started.
 Most of my open work lives at **[Casys-AI](https://github.com/Casys-AI)**. These
 projects capture the range:
 
+- **[casys-digital-thread](https://github.com/Casys-AI/casys-digital-thread)** —
+  one engineering project from brief to proof, with the evidence behind each
+  answer.
 - **[mcp-server](https://github.com/Casys-AI/mcp-server)** — the TypeScript
   foundation behind Casys MCP servers and apps.
 - **[mcp-erpnext](https://github.com/Casys-AI/mcp-erpnext)** — agent-operated
