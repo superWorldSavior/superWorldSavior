@@ -45,7 +45,7 @@ projects capture the range:
 - **[casys-digital-thread](https://github.com/Casys-AI/casys-digital-thread)** —
   one engineering project from brief to proof, with the evidence behind each
   answer.
-- **[mcp-server](https://github.com/Casys-AI/mcp-server)** — the TypeScript
+- **[mcp-platform](https://github.com/Casys-AI/mcp-platform)** — the TypeScript
   foundation behind Casys MCP servers and apps.
 - **[mcp-erpnext](https://github.com/Casys-AI/mcp-erpnext)** — agent-operated
   ERPNext workflows with interactive views.
