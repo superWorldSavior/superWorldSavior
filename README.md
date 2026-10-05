@@ -9,16 +9,21 @@
 
 **I think in systems, build in code, and teach from the work.**
 
-I'm the founder and software architect behind [Casys](https://casys.ai), based
+I'm a software architect and the founder of [Casys](https://casys.ai), based
 in Taiwan. I work where agent protocols, engineering models, business systems,
 data, and decision-making meet.
 
 I like turning complicated real-world work into software that is executable,
 inspectable, and useful to the people who own it.
 
-[Casys](https://casys.ai) · [Open source](https://github.com/Casys-AI) ·
+I develop tools and software on my personal GitHub. Casys is dedicated to
+**[Agentic Process Engineering](https://casys.ai/agentic-process-engineering/book)**.
+I provide no-code training through **THE NO CODE GUY**, my legal company.
+
+[Open source](https://github.com/superWorldSavior?tab=repositories) ·
+[APE book](https://casys.ai/agentic-process-engineering/book) ·
 [Field notes](https://casys.ai/blog) · [Teaching](https://casys.ai/teaching) ·
-[LinkedIn](https://www.linkedin.com/in/erwan-lee-pesle-32085463)
+[LinkedIn](https://www.linkedin.com/in/erwan-pesle-32085463/)
 
 ## What I build
 
@@ -39,18 +44,17 @@ ideas remain useful outside the repository where they started.
 
 ## Selected work
 
-Most of my open work lives at **[Casys-AI](https://github.com/Casys-AI)**. These
-projects capture the range:
+My open-source tools and software live on **[my personal GitHub](https://github.com/superWorldSavior?tab=repositories)**.
+These projects capture the range:
 
-- **[casys-digital-thread](https://github.com/Casys-AI/casys-digital-thread)** —
-  one engineering project from brief to proof, with the evidence behind each
-  answer.
-- **[mcp-platform](https://github.com/Casys-AI/mcp-platform)** — the TypeScript
-  foundation behind Casys MCP servers and apps.
-- **[mcp-erpnext](https://github.com/Casys-AI/mcp-erpnext)** — agent-operated
+- **[constraint-solver](https://github.com/superWorldSavior/constraint-solver)** —
+  parametric constraints with units, for engineering models and verification.
+- **[mcp-platform](https://github.com/superWorldSavior/mcp-platform)** — the
+  TypeScript foundation for MCP servers and apps.
+- **[mcp-erpnext](https://github.com/superWorldSavior/mcp-erpnext)** — agent-operated
   ERPNext workflows with interactive views.
-- **[mcp-chrono](https://github.com/Casys-AI/mcp-chrono)** — prescribed
-  rigid-body kinematics with Project Chrono.
+- **[gsc-cli](https://github.com/superWorldSavior/gsc-cli)** — Google Search Console
+  as a CLI and library, with structured output for agents.
 
 ## Side quest
 
