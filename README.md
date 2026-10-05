@@ -19,7 +19,7 @@ inspectable, and useful to the people who own it.
 I develop tools and software on my personal GitHub. Existing npm and JSR
 packages keep the `@casys` namespace.
 
-Through **Casys — Complex Adaptive Systems**, I develop
+Through **Casys — Complex Adaptive Systems**, I contribute to the discipline of
 **[Agentic Process Engineering (APE)](https://casys.ai/agentic-process-engineering/book)**
 and offer consulting and education on the design and governance of processes
 with AI. Casys publishes the APE handbook and its supporting resources.
