@@ -51,17 +51,19 @@ ideas remain useful outside the repository where they started.
 
 ## Selected work
 
-My open-source tools and software live on **[my personal GitHub](https://github.com/superWorldSavior?tab=repositories)**.
+My tools and software live on **[my personal GitHub](https://github.com/superWorldSavior?tab=repositories)**.
 These projects capture the range:
 
-- **[constraint-solver](https://github.com/superWorldSavior/constraint-solver)** —
-  parametric constraints with units, for engineering models and verification.
-- **[mcp-platform](https://github.com/superWorldSavior/mcp-platform)** — the
-  TypeScript foundation for MCP servers and apps.
+- **[mcp-platform](https://github.com/superWorldSavior/mcp-platform)** — a
+  TypeScript framework for MCP servers, apps, and composition.
+- **[casys-trader](https://github.com/superWorldSavior/casys-trader)** — experimental
+  LLM-assisted paper trading with explicit risk controls and traceable decisions.
+- **[casys-digital-thread](https://github.com/superWorldSavior/casys-digital-thread)** —
+  experimental engineering workflows from reviewed intent to traceable artifacts and evidence.
 - **[mcp-erpnext](https://github.com/superWorldSavior/mcp-erpnext)** — agent-operated
-  ERPNext workflows with interactive views.
-- **[gsc-cli](https://github.com/superWorldSavior/gsc-cli)** — Google Search Console
-  as a CLI and library, with structured output for agents.
+  ERPNext documents and workflows with interactive views.
+- **[editorial-workbench](https://github.com/superWorldSavior/editorial-workbench)** — a
+  local editorial reader for HTML manuscripts and detailed Markdown outlines.
 
 ## Side quest
 
