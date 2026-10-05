@@ -16,9 +16,16 @@ data, and decision-making meet.
 I like turning complicated real-world work into software that is executable,
 inspectable, and useful to the people who own it.
 
-I develop tools and software on my personal GitHub. Casys is dedicated to
-**[Agentic Process Engineering](https://casys.ai/agentic-process-engineering/book)**.
-I provide no-code training through **THE NO CODE GUY**, my legal company.
+I develop tools and software on my personal GitHub. Existing npm and JSR
+packages keep the `@casys` namespace.
+
+Through **Casys — Complex Adaptive Systems**, I develop
+**[Agentic Process Engineering (APE)](https://casys.ai/agentic-process-engineering/book)**
+and offer consulting and education on the design and governance of processes
+with AI. Casys publishes the APE handbook and its supporting resources.
+
+I provide no-code training through **THE NO CODE GUY**, my legal company,
+which operates the Casys brand.
 
 [Open source](https://github.com/superWorldSavior?tab=repositories) ·
 [APE book](https://casys.ai/agentic-process-engineering/book) ·
